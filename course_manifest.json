@@ -1,0 +1,602 @@
+[
+  {
+    "id": "00",
+    "file": "00_start_here.ipynb",
+    "title": "Start here",
+    "subtitle": "How the app works · First line of code · R cheat sheet",
+    "group": "Foundation",
+    "minutes": 20
+  },
+  {
+    "id": "01a",
+    "file": "01a_first_lines_of_code.ipynb",
+    "title": "Variables, numbers and strings",
+    "subtitle": "Python basics 1/8 · Arithmetic, assignment, reading errors",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "01b",
+    "file": "01b_lists.ipynb",
+    "title": "Lists",
+    "subtitle": "Python basics 2/8 · Indexing from 0, slicing",
+    "group": "Coding",
+    "minutes": 35
+  },
+  {
+    "id": "01c",
+    "file": "01c_conditions_and_loops.ipynb",
+    "title": "Conditions and loops",
+    "subtitle": "Python basics 3/8 · Indentation, if, for, three patterns",
+    "group": "Coding",
+    "minutes": 40
+  },
+  {
+    "id": "01d",
+    "file": "01d_functions.ipynb",
+    "title": "Functions",
+    "subtitle": "Python basics 4/8 · def, return, edge cases",
+    "group": "Coding",
+    "minutes": 35
+  },
+  {
+    "id": "01e",
+    "file": "01e_dicts_and_sets.ipynb",
+    "title": "Dicts and sets",
+    "subtitle": "Python basics 5/8 · Counting, deduplication",
+    "group": "Coding",
+    "minutes": 40
+  },
+  {
+    "id": "01f",
+    "file": "01f_comprehensions_and_builtins.ipynb",
+    "title": "Comprehensions and built-ins",
+    "subtitle": "Python basics 6/8 · Filter and transform in one line",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "01g",
+    "file": "01g_common_pitfalls.ipynb",
+    "title": "Common pitfalls",
+    "subtitle": "Python basics 7/8 · Assignment doesn't copy, try/except",
+    "group": "Coding",
+    "minutes": 35
+  },
+  {
+    "id": "01h",
+    "file": "01h_intro_interview_questions.ipynb",
+    "title": "First interview questions",
+    "subtitle": "Python basics 8/8 · FizzBuzz, dedup, Two Sum",
+    "group": "Coding",
+    "minutes": 60
+  },
+  {
+    "id": "01i",
+    "file": "01i_drills_numbers_strings_lists.ipynb",
+    "title": "Drills 1: numbers, strings, lists",
+    "subtitle": "Python drills 1/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 25
+  },
+  {
+    "id": "01j",
+    "file": "01j_drills_conditions_loops_functions.ipynb",
+    "title": "Drills 2: conditions, loops, functions",
+    "subtitle": "Python drills 2/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "01k",
+    "file": "01k_drills_dicts_sets_comprehensions.ipynb",
+    "title": "Drills 3: dicts, sets, comprehensions",
+    "subtitle": "Python drills 3/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "01l",
+    "file": "01l_drills_pitfalls_and_quick_questions.ipynb",
+    "title": "Drills 4: pitfalls and quick interview questions",
+    "subtitle": "Python drills 4/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 40
+  },
+  {
+    "id": "02a",
+    "file": "02a_numpy.ipynb",
+    "title": "NumPy: real vectors",
+    "subtitle": "pandas 1/6 · Vectorization, boolean filtering, simulation",
+    "group": "Coding",
+    "minutes": 40
+  },
+  {
+    "id": "02b",
+    "file": "02b_pandas_basics.ipynb",
+    "title": "pandas basics: select, filter, sort",
+    "subtitle": "pandas 2/6 · DataFrame basics, compared with dplyr",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "02c",
+    "file": "02c_groupby_aggregation.ipynb",
+    "title": "Group and aggregate",
+    "subtitle": "pandas 3/6 · groupby, agg, transform, within-group ranking",
+    "group": "Coding",
+    "minutes": 50
+  },
+  {
+    "id": "02d",
+    "file": "02d_merge_and_reshape.ipynb",
+    "title": "Merge and reshape",
+    "subtitle": "pandas 4/6 · merge, dedup, long/wide conversion",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "02e",
+    "file": "02e_data_cleaning.ipynb",
+    "title": "Data cleaning",
+    "subtitle": "pandas 5/6 · Missing values, types, dates, strings, binning",
+    "group": "Coding",
+    "minutes": 50
+  },
+  {
+    "id": "02f",
+    "file": "02f_pandas_interview_questions.ipynb",
+    "title": "pandas interview questions",
+    "subtitle": "pandas 6/6 · Conversion rate, top per group, DAU, retention",
+    "group": "Coding",
+    "minutes": 60
+  },
+  {
+    "id": "02g",
+    "file": "02g_drills_selection_filtering.ipynb",
+    "title": "Drills 1: select, filter, sort",
+    "subtitle": "pandas drills 1/5 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "02h",
+    "file": "02h_drills_groupby_aggregation.ipynb",
+    "title": "Drills 2: group and aggregate",
+    "subtitle": "pandas drills 2/5 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "02i",
+    "file": "02i_drills_merge_reshape.ipynb",
+    "title": "Drills 3: merge, dedup, reshape",
+    "subtitle": "pandas drills 3/5 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "02j",
+    "file": "02j_drills_data_cleaning.ipynb",
+    "title": "Drills 4: data cleaning",
+    "subtitle": "pandas drills 4/5 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "02k",
+    "file": "02k_drills_mixed.ipynb",
+    "title": "Drills 5: mixed",
+    "subtitle": "pandas drills 5/5 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "03a",
+    "file": "03a_select_basics.ipynb",
+    "title": "SELECT, WHERE, ORDER BY",
+    "subtitle": "SQL 1/6 · Columns, filters, sorting, NULL",
+    "group": "Coding",
+    "minutes": 40
+  },
+  {
+    "id": "03b",
+    "file": "03b_aggregation.ipynb",
+    "title": "GROUP BY, HAVING, CASE WHEN",
+    "subtitle": "SQL 2/6 · Grouped stats and conditional aggregation",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "03c",
+    "file": "03c_joins.ipynb",
+    "title": "JOIN",
+    "subtitle": "SQL 3/6 · Inner, left and self joins",
+    "group": "Coding",
+    "minutes": 50
+  },
+  {
+    "id": "03d",
+    "file": "03d_subqueries_and_ctes.ipynb",
+    "title": "Subqueries and CTEs",
+    "subtitle": "SQL 4/6 · Break a hard query into steps",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "03e",
+    "file": "03e_window_functions.ipynb",
+    "title": "Window functions",
+    "subtitle": "SQL 5/6 · Ranking, top N per group, running totals, LAG",
+    "group": "Coding",
+    "minutes": 55
+  },
+  {
+    "id": "03f",
+    "file": "03f_sql_interview_questions.ipynb",
+    "title": "SQL interview questions",
+    "subtitle": "SQL 6/6 · Dates, DAU, retention, funnels, consecutive logins",
+    "group": "Coding",
+    "minutes": 70
+  },
+  {
+    "id": "03g",
+    "file": "03g_drills_filter_aggregate.ipynb",
+    "title": "Drills 1: filter, sort, aggregate",
+    "subtitle": "SQL drills 1/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "03h",
+    "file": "03h_drills_joins_ctes.ipynb",
+    "title": "Drills 2: JOIN, subqueries, CTEs",
+    "subtitle": "SQL drills 2/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "03i",
+    "file": "03i_drills_window_functions.ipynb",
+    "title": "Drills 3: window functions",
+    "subtitle": "SQL drills 3/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 30
+  },
+  {
+    "id": "03j",
+    "file": "03j_drills_business_cases.ipynb",
+    "title": "Drills 4: business cases",
+    "subtitle": "SQL drills 4/4 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "04a",
+    "file": "04a_problem_solving_and_hash_maps.ipynb",
+    "title": "Problem-solving process, complexity, hash maps",
+    "subtitle": "Algorithms 1/10 · What an OA looks like, and the most-used tool",
+    "group": "Coding",
+    "minutes": 55
+  },
+  {
+    "id": "04b",
+    "file": "04b_two_pointers.ipynb",
+    "title": "Two pointers",
+    "subtitle": "Algorithms 2/10 · Two indices moving over an array",
+    "group": "Coding",
+    "minutes": 50
+  },
+  {
+    "id": "04c",
+    "file": "04c_sliding_window.ipynb",
+    "title": "Sliding window",
+    "subtitle": "Algorithms 3/10 · Contiguous subarray / substring problems",
+    "group": "Coding",
+    "minutes": 50
+  },
+  {
+    "id": "04d",
+    "file": "04d_stacks_and_queues.ipynb",
+    "title": "Stacks and queues",
+    "subtitle": "Algorithms 4/10 · Bracket matching, monotonic stack",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "04e",
+    "file": "04e_binary_search.ipynb",
+    "title": "Binary search",
+    "subtitle": "Algorithms 5/10 · O(log n) on sorted data",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "04f",
+    "file": "04f_sorting_intervals_heaps.ipynb",
+    "title": "Sorting, intervals, heaps",
+    "subtitle": "Algorithms 6/10 · Custom sort keys, merging intervals, top-K",
+    "group": "Coding",
+    "minutes": 50
+  },
+  {
+    "id": "04g",
+    "file": "04g_recursion_and_linked_lists.ipynb",
+    "title": "Recursion, classes, linked lists",
+    "subtitle": "Algorithms 7/10 · Functions that call themselves, and a first data structure",
+    "group": "Coding",
+    "minutes": 55
+  },
+  {
+    "id": "04h",
+    "file": "04h_trees_and_graphs.ipynb",
+    "title": "Trees and graphs: DFS and BFS",
+    "subtitle": "Algorithms 8/10 · Two traversals that solve a whole family of problems",
+    "group": "Coding",
+    "minutes": 60
+  },
+  {
+    "id": "04i",
+    "file": "04i_prefix_sums_and_dp.ipynb",
+    "title": "Prefix sums and intro to dynamic programming",
+    "subtitle": "Algorithms 9/10 · Store results you've already computed",
+    "group": "Coding",
+    "minutes": 55
+  },
+  {
+    "id": "04j",
+    "file": "04j_mock_oa.ipynb",
+    "title": "Mock OA (70-minute limit)",
+    "subtitle": "Algorithms 10/10 · Four new problems, no hints",
+    "group": "Coding",
+    "minutes": 80
+  },
+  {
+    "id": "04k",
+    "file": "04k_drills_hash_pointers_window_stack.ipynb",
+    "title": "Drills 1: hash maps, two pointers, sliding window, stacks",
+    "subtitle": "Algorithm drills 1/3 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "04l",
+    "file": "04l_drills_search_sort_heap_recursion.ipynb",
+    "title": "Drills 2: binary search, sorting and heaps, recursion and linked lists",
+    "subtitle": "Algorithm drills 2/3 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "04m",
+    "file": "04m_drills_trees_graphs_prefix_dp.ipynb",
+    "title": "Drills 3: trees and graphs, prefix sums, dynamic programming",
+    "subtitle": "Algorithm drills 3/3 · 20 problems · read-only",
+    "group": "Coding",
+    "minutes": 45
+  },
+  {
+    "id": "05a",
+    "file": "05a_probability_review.ipynb",
+    "title": "Probability: oral review",
+    "subtitle": "Probability 1/2 · Bayes, expectation and variance, common distributions, LLN/CLT",
+    "group": "Statistics",
+    "minutes": 40
+  },
+  {
+    "id": "05b",
+    "file": "05b_probability_hands_on.ipynb",
+    "title": "Probability: classic interview questions and simulation",
+    "subtitle": "Probability 2/2 · scipy.stats, checking answers by simulation",
+    "group": "Statistics",
+    "minutes": 55
+  },
+  {
+    "id": "05c",
+    "file": "05c_drills_probability.ipynb",
+    "title": "Drills: probability",
+    "subtitle": "Probability drills · 20 problems · read-only",
+    "group": "Statistics",
+    "minutes": 40
+  },
+  {
+    "id": "06a",
+    "file": "06a_inference_review.ipynb",
+    "title": "Statistical inference: oral review",
+    "subtitle": "Inference 1/2 · Estimation, CIs, p-values, tests, MLE",
+    "group": "Statistics",
+    "minutes": 45
+  },
+  {
+    "id": "06b",
+    "file": "06b_inference_hands_on.ipynb",
+    "title": "Statistical inference: tests in Python",
+    "subtitle": "Inference 2/2 · Confidence intervals, t-tests, bootstrap, permutation tests, power",
+    "group": "Statistics",
+    "minutes": 60
+  },
+  {
+    "id": "06c",
+    "file": "06c_drills_inference.ipynb",
+    "title": "Drills: statistical inference",
+    "subtitle": "Inference drills · 20 problems · read-only",
+    "group": "Statistics",
+    "minutes": 45
+  },
+  {
+    "id": "07a",
+    "file": "07a_ols_review.ipynb",
+    "title": "Linear regression: oral review",
+    "subtitle": "Regression 1/2 · OLS assumptions, diagnostics, interpreting coefficients",
+    "group": "Statistics",
+    "minutes": 45
+  },
+  {
+    "id": "07b",
+    "file": "07b_ols_hands_on.ipynb",
+    "title": "Linear regression: fitting in Python",
+    "subtitle": "Regression 2/2 · statsmodels (like R's lm), robust standard errors, VIF",
+    "group": "Statistics",
+    "minutes": 55
+  },
+  {
+    "id": "07c",
+    "file": "07c_drills_linear_regression.ipynb",
+    "title": "Drills: linear regression",
+    "subtitle": "Regression drills · 20 problems · read-only",
+    "group": "Statistics",
+    "minutes": 40
+  },
+  {
+    "id": "08a",
+    "file": "08a_logistic_review.ipynb",
+    "title": "Logistic regression and regularization: oral review",
+    "subtitle": "Classification 1/2 · Odds, L1/L2, class imbalance",
+    "group": "ML",
+    "minutes": 40
+  },
+  {
+    "id": "08b",
+    "file": "08b_logistic_hands_on.ipynb",
+    "title": "Logistic regression: modeling with scikit-learn",
+    "subtitle": "Classification 2/2 · Pipeline, predicted probabilities, thresholds, Lasso and Ridge",
+    "group": "ML",
+    "minutes": 55
+  },
+  {
+    "id": "08c",
+    "file": "08c_drills_logistic_regularization.ipynb",
+    "title": "Drills: logistic regression and regularization",
+    "subtitle": "Classification drills · 20 problems · read-only",
+    "group": "ML",
+    "minutes": 40
+  },
+  {
+    "id": "09a",
+    "file": "09a_ab_testing_review.ipynb",
+    "title": "A/B testing: oral review",
+    "subtitle": "Experiments 1/2 · Design process, power, peeking, SRM",
+    "group": "Statistics",
+    "minutes": 45
+  },
+  {
+    "id": "09b",
+    "file": "09b_ab_testing_hands_on.ipynb",
+    "title": "A/B testing: sample size and analysis",
+    "subtitle": "Experiments 2/2 · Sample size, differences and CIs, SRM, peeking simulation",
+    "group": "Statistics",
+    "minutes": 55
+  },
+  {
+    "id": "09c",
+    "file": "09c_drills_ab_testing.ipynb",
+    "title": "Drills: A/B testing",
+    "subtitle": "Experiment drills · 20 problems · read-only",
+    "group": "Statistics",
+    "minutes": 45
+  },
+  {
+    "id": "10a",
+    "file": "10a_ml_review.ipynb",
+    "title": "Machine learning: oral review",
+    "subtitle": "ML 1/2 · Bias-variance, trees, ensembles, unsupervised learning, deep-learning essentials",
+    "group": "ML",
+    "minutes": 55
+  },
+  {
+    "id": "10b",
+    "file": "10b_sklearn_workflow.ipynb",
+    "title": "Machine learning: the full scikit-learn workflow",
+    "subtitle": "ML 2/2 · Leakage, feature engineering, Pipeline, cross-validation, tuning",
+    "group": "ML",
+    "minutes": 70
+  },
+  {
+    "id": "10c",
+    "file": "10c_drills_ml.ipynb",
+    "title": "Drills: machine learning",
+    "subtitle": "Machine learning drills · 20 problems · read-only",
+    "group": "ML",
+    "minutes": 40
+  },
+  {
+    "id": "11a",
+    "file": "11a_model_evaluation.ipynb",
+    "title": "Model evaluation: metrics, calibration, after launch",
+    "subtitle": "Evaluation 1/2 · Oral review + computing metrics by hand",
+    "group": "ML",
+    "minutes": 50
+  },
+  {
+    "id": "11b",
+    "file": "11b_ml_from_scratch.ipynb",
+    "title": "ML algorithms from scratch (common in interviews)",
+    "subtitle": "Evaluation 2/2 · AUC, kNN, k-means, gradient descent without sklearn",
+    "group": "ML",
+    "minutes": 80
+  },
+  {
+    "id": "11c",
+    "file": "11c_drills_model_evaluation.ipynb",
+    "title": "Drills: model evaluation and algorithms from scratch",
+    "subtitle": "Model evaluation drills · 20 problems · read-only",
+    "group": "ML",
+    "minutes": 40
+  },
+  {
+    "id": "12",
+    "file": "12_ds_case_studies.ipynb",
+    "title": "DS case studies and product sense",
+    "subtitle": "Investigating metric drops, designing metrics, launch decisions",
+    "group": "Interview",
+    "minutes": 50
+  },
+  {
+    "id": "12b",
+    "file": "12b_drills_case_questions.ipynb",
+    "title": "Drills: DS case questions",
+    "subtitle": "Case drills · 15 problems · read-only",
+    "group": "Interview",
+    "minutes": 60
+  },
+  {
+    "id": "13",
+    "file": "13_research_communication_and_behavioral.ipynb",
+    "title": "Research communication and behavioral",
+    "subtitle": "Present your PhD research as a project industry can follow",
+    "group": "Interview",
+    "minutes": 50
+  },
+  {
+    "id": "14a",
+    "file": "14a_oral_final_review.ipynb",
+    "title": "Final review 1: 20 questions to answer without notes",
+    "subtitle": "Final 1/3 · 60 seconds each",
+    "group": "Interview",
+    "minutes": 45
+  },
+  {
+    "id": "14b",
+    "file": "14b_full_mock_oa.ipynb",
+    "title": "Final review 2: full mock OA (60-minute limit)",
+    "subtitle": "Final 2/3 · 2 Python + 1 pandas + 2 SQL problems",
+    "group": "Interview",
+    "minutes": 70
+  },
+  {
+    "id": "14c",
+    "file": "14c_stats_ml_calculations.ipynb",
+    "title": "Final review 3: stats and ML calculations",
+    "subtitle": "Final 3/3 · Multiple-choice / fill-in questions common in OAs",
+    "group": "Interview",
+    "minutes": 40
+  },
+  {
+    "id": "15",
+    "file": "15_baseline_diagnostic.ipynb",
+    "title": "Baseline diagnostic (optional)",
+    "subtitle": "The closed-book test that used to come first, now done at the end",
+    "group": "Interview",
+    "minutes": 35
+  }
+]
